@@ -41,7 +41,7 @@ void menu_utama()
     cout<<"MENU PILIHAN"<<endl; 
     cout<<"==============================================="<<endl;
     cout<<"1.Kasus Konversi Desimal ke Binner"<<endl;
-    cout<<"2.Kasus Menghitung huruf i dalam kalimat"<<endl;
+    cout<<"2.Kasus menghitung banyak sebuah karakter dalam kalimat"<<endl;
     cout<<"3.Informasi Anggota Kelompok"<<endl;  
     cout<<"4.Keluar"<<endl;    
     cout<<"==============================================="<<endl;
