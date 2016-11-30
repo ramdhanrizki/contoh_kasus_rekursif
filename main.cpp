@@ -55,10 +55,6 @@ int pilih_menu()
     return menu;    
 }
 
-void coba_cetak(int desimal)
-{
-    cout<<"Hallo angka "<<desimal; 
-}
 
 string konversi_binner(int desimal)
 {
@@ -117,6 +113,7 @@ void menu_hitung_huruf()
     getline(cin,nama);
     cout<<"Masukkan karakter yang ingin dihitung : ";
     //karakter = getch();
+    cin>>karakter;
     cout<<endl;
     system("cls"); 
     cout<<"Nama yang dimasukkan : "<<nama<<endl; 
